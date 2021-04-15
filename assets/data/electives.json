@@ -1,0 +1,10 @@
+{
+    "electives": 
+      [
+          
+        {"name": "workplace and culture","publisher": "Uni-Publishers", "author":"L.P. jiz", "opinion":"Best"},
+        {"name": "Faith","publisher": "Owl-Publishers", "author":"K. John", "opinion":"average"},
+        {"name": "Diet and work","publisher": "wish", "author":"P. Bishara", "opinion":"good"}
+          
+    ]
+  }

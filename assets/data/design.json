@@ -1,0 +1,10 @@
+{
+    "design": 
+      [
+          
+        {"name": "UI basics","publisher": "Uni-Publishers", "author":"Mohammad Sidique", "opinion":"Best"},
+        {"name": "Bad UX","publisher": "Owl-Publishers", "author":"Robert John", "opinion":"average"},
+        {"name": "Cost And Design","publisher": "wish", "author":"Romeo", "opinion":"best"}
+          
+    ]
+  }
